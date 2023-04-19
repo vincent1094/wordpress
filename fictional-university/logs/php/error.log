@@ -10,3 +10,8 @@
 [14-Apr-2023 10:04:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "sort_column", expecting ")" in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 51
 [17-Apr-2023 04:40:28 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [19-Apr-2023 04:33:12 UTC] Cron reschedule event error for hook: wp_version_check, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[19-Apr-2023 06:04:17 UTC] PHP Warning:  Undefined variable $the_parent in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 21
+[19-Apr-2023 06:04:17 UTC] PHP Warning:  Undefined variable $the_parent in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 21
+[19-Apr-2023 06:30:36 UTC] PHP Warning:  Undefined variable $the_parent in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 21
+[19-Apr-2023 06:30:36 UTC] PHP Warning:  Undefined variable $the_parent in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 22
+[19-Apr-2023 10:03:36 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
