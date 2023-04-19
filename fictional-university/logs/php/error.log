@@ -15,3 +15,13 @@
 [19-Apr-2023 06:30:36 UTC] PHP Warning:  Undefined variable $the_parent in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 21
 [19-Apr-2023 06:30:36 UTC] PHP Warning:  Undefined variable $the_parent in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 22
 [19-Apr-2023 10:03:36 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\Pc\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
+[19-Apr-2023 13:47:37 UTC] WordPress database error Duplicate entry '27-6' for key 'PRIMARY' for query INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`) VALUES (27, 6) made by wp_nav_menu_update_menu_items, wp_update_nav_menu_item, wp_set_object_terms
+[19-Apr-2023 13:47:38 UTC] WordPress database error Duplicate entry '28-6' for key 'PRIMARY' for query INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`) VALUES (28, 6) made by wp_nav_menu_update_menu_items, wp_update_nav_menu_item, wp_set_object_terms
+[19-Apr-2023 14:28:14 UTC] PHP Parse error:  syntax error, unexpected token "=>" in C:\Users\ADMIN\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 58
+[19-Apr-2023 14:33:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_trim_content() in C:\Users\ADMIN\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:70
+Stack trace:
+#0 C:\Users\ADMIN\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\ADMIN\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\ADMIN\\...')
+#2 C:\Users\ADMIN\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\ADMIN\\...')
+#3 {main}
+  thrown in C:\Users\ADMIN\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 70
